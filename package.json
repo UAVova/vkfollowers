@@ -1,0 +1,12 @@
+{
+  "name": "vkfollowers",
+  "version": "1.0.0",
+  "description": "Script, which will help you to remove deleted or banned users from your followers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Volodymyr Kulyk",
+  "license": "ISC"
+}
